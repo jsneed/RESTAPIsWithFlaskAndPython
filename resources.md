@@ -2,4 +2,4 @@
 https://python.tecladocode.com
 
 ## Code for this Course
-https://github.com/schoolofcode-me/rest-api-sections
+https://github.com/schoolofcode-me/rest-api-sectionspwd
